@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css?family=Lovers+Quarrel');
+@import url('https://fonts.googleapis.com/css?family=PT+Sans+Narrow');
+
+.thebrideandgroom{
+    background-color: rgba(0, 0, 0, 0.6);  
+    font-family: 'PT Sans Narrow', sans-serif;
+    word-wrap: break-word;
+    border-radius: 8px;
+}
+   
+div h1{
+    font-family: 'Lovers Quarrel', cursive;
+    font-size: 8vw; 
+    margin: 50px 50px; 
+    width: 100%;
+    text-align: left;
+}
+
+div h2{
+    font-size: 3vw;  
+    width: 100%;
+    text-align: left;
+    padding: 5px;
+}
+
+.date{
+    font-size: 4vw; 
+}
+
+.container {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    align-content: stretch;
+  }
+  
+  .item {
+    flex: 1;
+    flex-basis: 200px;
+    height: 100%;
+    min-width: 100px;
+    max-width:450px;
+    margin: 0 auto;
+    padding: 5px;
+  }
+
+  p img{
+      float: left;
+      margin: 0 5px 0;
+  }
+
+  p {
+    text-align: justify;
+}
+
+.seperation{
+    border-bottom: 5px solid white;
+    padding-bottom: 100px;
+    height: 100px;
+}
+
+.howWeMet{
+    padding: 5px;
+}
+
+.introtext{
+    background-color: rgba(0, 0, 0, 0.4);
+    font-size: 8vw;  
+    font-family: 'PT Sans Narrow', sans-serif;
+    color: #fff;
+    word-wrap: break-word;
+    border-radius: 8px;
+    margin-bottom: 300px;
+}
+   
+.kathryn{
+    font-family: 'Lovers Quarrel', cursive;
+    font-size: 16vw;  
+}
+
+.date{
+    font-size: 4vw; 
+}
+
+a{
+    color: white;
+}
+
+.post-editor{
+    margin: 1em 20%;
+    color: black;
+}
+
+.post-editor-button{
+    float: right;
+    margin-top: 1em;
+}
+
+.post-body{
+    margin: 1em 20%;
+    color: black;
+}
+
+@media(max-width: 900px){
+    .post-editor{
+        margin: 1em;
+    }
+    .post-body{
+        margin: 1em;
+    }
+}
