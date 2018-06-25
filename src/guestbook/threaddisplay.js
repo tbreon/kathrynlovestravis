@@ -3,6 +3,7 @@ import '../kathrynlovestravis.css';
 import Post from './post.js';
 import Posteditor from './posteditor.js';
 import { base } from '../firebase/firebase.js';
+const moment = require('moment');
 
 class Threaddisplay extends Component{
     constructor(props){
@@ -13,12 +14,15 @@ class Threaddisplay extends Component{
     }
     }
 
-    addPost(newPostBody){
+    addPost(newPostBody, newName){
        const posts = {...this.state.posts};
        const id = Date.now();
+       const date = moment().format('MMMM Do YYYY, h:mm:ss a');
        posts[id] = {
            id: id,
+           date: date,
            post: newPostBody,
+           name: newName,
        }
        this.setState({posts});
     }
@@ -43,7 +47,7 @@ Object.values(this.state.posts).map((post, i) => {
     let categories = Object.keys(post);
     categories.pop();
     return (
-          <Post key={i} postBody={post.post}/>
+          <Post key={i} postBody={post}/>
     );
   })
    }
