@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import '../kathrynlovestravis.css';
-
+import video from '../videos/Travis Engagement.mov'
 
 class TheBrideAndGroom extends Component{ 
     render(){  
@@ -21,7 +21,7 @@ class TheBrideAndGroom extends Component{
                 <p>{this.props.thebrideandgroom[1].howWeMet}</p>
                 </div>
                 </div>
-                <div><img src={require('../img/Placeholder-Clipart-Icon.png')} height="100%" width="100%" alt=""/></div>
+                <div><video width="320" height="240" controls src={video} type="video/mov"> </video></div>
                 <div className="container">
                 <h2>THE ENGAGEMENT</h2>
                 <div className="howWeMet">
