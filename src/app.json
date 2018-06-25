@@ -1,0 +1,36 @@
+[
+    {
+        "bride": "Kathryn ",
+        "groom": " TRAVIS",
+        "month": "June",
+        "day": "14",
+        "year": "2019"
+    },
+    {
+        "thebrideandgroom": "The Bride and Groom", 
+        "bride": "Kathryn",
+        "groom": "TRAVIS",
+        "brideSummary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce posuere ligula ut ex auctor scelerisque. Donec accumsan pellentesque aliquet. Nunc id vulputate lectus, vitae fermentum nisl. Ut auctor aliquam risus sit amet facilisis. Nullam congue tellus non nisl viverra, id facilisis elit sollicitudin. Curabitur eget tincidunt tellus. Suspendisse pellentesque commodo consectetur. Aliquam molestie a purus porttitor tempor. Sed nec diam scelerisque, pharetra dolor et, rutrum urna. Donec non aliquet enim, et molestie sapien. Duis nec neque eu orci tristique auctor. Praesent et ligula convallis sapien fringilla venenatis. Nunc posuere augue nisi, id vestibulum lacus lacinia at. Maecenas efficitur feugiat eros.",
+        "groomSummary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce posuere ligula ut ex auctor scelerisque. Donec accumsan pellentesque aliquet. Nunc id vulputate lectus, vitae fermentum nisl. Ut auctor aliquam risus sit amet facilisis. Nullam congue tellus non nisl viverra, id facilisis elit sollicitudin. Curabitur eget tincidunt tellus. Suspendisse pellentesque commodo consectetur. Aliquam molestie a purus porttitor tempor. Sed nec diam scelerisque, pharetra dolor et, rutrum urna. Donec non aliquet enim, et molestie sapien. Duis nec neque eu orci tristique auctor. Praesent et ligula convallis sapien fringilla venenatis. Nunc posuere augue nisi, id vestibulum lacus lacinia at. Maecenas efficitur feugiat eros.",
+        "brideImage": "",
+        "groomImage": "",
+        "howWeMet": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam dapibus nisi ut dolor iaculis, ac condimentum lectus pellentesque. Proin interdum dapibus dui nec egestas. Nunc mauris dui, sollicitudin at sagittis egestas, condimentum et quam. Etiam gravida auctor libero, quis convallis enim. Ut fringilla mi sit amet ante tincidunt, porttitor tincidunt sem luctus. Quisque iaculis nibh justo, eu tristique risus pulvinar ut. Suspendisse iaculis felis egestas tortor bibendum, iaculis lacinia erat convallis. Nam maximus massa elit, et tempor arcu tempor non. Morbi condimentum leo eu sapien volutpat, nec luctus velit tempus. Aenean semper libero nunc, ut pellentesque nibh sodales nec. Proin at arcu elementum ipsum elementum condimentum. Nam feugiat ante a tellus facilisis, quis rutrum ligula suscipit.<br/>Morbi dapibus sagittis urna, ac eleifend felis molestie vel. Nullam tempus erat magna. Suspendisse a laoreet erat, at mollis libero. Curabitur blandit quam in velit dignissim lobortis. Aenean malesuada, ante faucibus tincidunt viverra, augue massa mollis ex, id blandit neque neque id dui. Aliquam eu aliquam augue. Sed congue venenatis risus quis efficitur. Pellentesque odio massa, tincidunt eget lacinia et, sodales nec justo. Donec cursus aliquam luctus. Mauris sit amet nisi libero. Ut aliquam eget eros id egestas. Cras ac ex est. Curabitur in.",
+        "theEngagement": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam dapibus nisi ut dolor iaculis, ac condimentum lectus pellentesque. Proin interdum dapibus dui nec egestas. Nunc mauris dui, sollicitudin at sagittis egestas, condimentum et quam. Etiam gravida auctor libero, quis convallis enim. Ut fringilla mi sit amet ante tincidunt, porttitor tincidunt sem luctus. Quisque iaculis nibh justo, eu tristique risus pulvinar ut. Suspendisse iaculis felis egestas tortor bibendum, iaculis lacinia erat convallis. Nam maximus massa elit, et tempor arcu tempor non. Morbi condimentum leo eu sapien volutpat, nec luctus velit tempus. Aenean semper libero nunc, ut pellentesque nibh sodales nec. Proin at arcu elementum ipsum elementum condimentum. Nam feugiat ante a tellus facilisis, quis rutrum ligula suscipit.<br/>Morbi dapibus sagittis urna, ac eleifend felis molestie vel. Nullam tempus erat magna. Suspendisse a laoreet erat, at mollis libero. Curabitur blandit quam in velit dignissim lobortis. Aenean malesuada, ante faucibus tincidunt viverra, augue massa mollis ex, id blandit neque neque id dui. Aliquam eu aliquam augue. Sed congue venenatis risus quis efficitur. Pellentesque odio massa, tincidunt eget lacinia et, sodales nec justo. Donec cursus aliquam luctus. Mauris sit amet nisi libero. Ut aliquam eget eros id egestas. Cras ac ex est. Curabitur in."
+    },
+    {
+        "facility" : "North Ridge Pavilion",
+        "facilityLocation" : "Coralville, Iowa",
+        "ceremonyDate": "Friday, June 14, 2019", 
+        "ceremonyTimeAndLocation": "5:00 PM at North Ridge Pavilion",
+        "ceremonyAttire": "Formal Attire", 
+        "ceremonyNote": "*Dinner to Follow Ceremony", 
+       "weddingFacility": "North Ridge Pavilion",
+        "weddingFacilityLocation": "Coralville, Iowa",
+        "weddingDateFirstLine": "Saturday, June 15, 2019",
+        "weddingDateSecondLine": "4:00 PM at North Ridge Pavilion",
+        "weddingAttire": "Semi-Formal Attire", 
+        "weddingMenu": "Menu",
+        "weddingEntertainment": "Entertainment"
+        }
+
+]

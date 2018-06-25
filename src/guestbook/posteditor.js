@@ -30,7 +30,9 @@ class Posteditor extends Component{
         return(
     <div className="panel panel-default post-editor">
     <div className="panel-body">
-        <textarea className="form-control post-editor-input" value={this.state.newPostBody} onChange={this.handlePostEditorInputChange}/>
+    {/* <input type="text" name="Name" placeholder="Your Name"/>
+    <input type="text" name="Email" placeholder="Email Address (will not be displayed in post)"/> */}
+        <textarea className="form-control post-editor-input" value={this.state.newPostBody} placeholder="Your message..." onChange={this.handlePostEditorInputChange}/>
         <button className="btn btn-success post-editor-button" onClick={this.createPost}>Post</button>
         </div>
         </div>

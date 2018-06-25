@@ -2,9 +2,7 @@ import React, { Component } from 'react';
 import '../kathrynlovestravis.css';
 import Post from './post.js';
 import Posteditor from './posteditor.js';
-import { base } from './firebase.js'
-import firebase from 'firebase';
-
+import { base } from '../firebase/firebase.js';
 
 class Threaddisplay extends Component{
     constructor(props){
