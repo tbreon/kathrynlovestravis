@@ -21,7 +21,7 @@ class TheBrideAndGroom extends Component{
                 <p>{this.props.thebrideandgroom[1].howWeMet}</p>
                 </div>
                 </div>
-                <div><video width="320" height="240" controls src={video} type="video/mov"> </video></div>
+                <div><video width="320" height="240" controls src={video} type="video/mov" controlsList="nodownload"> </video></div>
                 <div className="container">
                 <h2>THE ENGAGEMENT</h2>
                 <div className="howWeMet">
